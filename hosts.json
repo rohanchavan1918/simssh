@@ -1,0 +1,18 @@
+{
+    "hosts": [
+      {
+        "host": "host:port",
+        "username": "rohan",
+        "use_password": false,
+        "password": "",
+        "publickey" : "publickey path"
+      },
+      {
+        "host": "host:port",
+        "username": "rohan",
+        "use_password": true,
+        "password": "supersecuredpassword",
+        "publickey" : ""
+      }
+    ]
+  }
