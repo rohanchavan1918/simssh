@@ -47,9 +47,9 @@ Since this file might contain plain text passwords, it is your responsibility to
 			Using  interactive mode
 		 `simssh --hosts path_to_hosts.json --mode interactive `
 			 ![interactive](https://user-images.githubusercontent.com/25792843/110240882-f434ce00-7f73-11eb-95df-74cff49ce3e5.png)
-			 Using batch mode
-			`simssh -hosts path_to_hosts.json --mode batch --cmd_file file_to_cmds.txt` 
-			![image](https://user-images.githubusercontent.com/25792843/110241145-4fb38b80-7f75-11eb-93d7-ab318768b2ba.png)
+	- Using batch mode
+		`simssh -hosts path_to_hosts.json --mode batch --cmd_file file_to_cmds.txt` 
+			![batch](https://user-images.githubusercontent.com/25792843/110241145-4fb38b80-7f75-11eb-93d7-ab318768b2ba.png)
 
 - ### Running from source
 	
